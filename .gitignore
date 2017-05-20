@@ -2,3 +2,4 @@
 /.babel_cache
 npm-debug.log
 .DS_Store
+src/static/js/bundle.js
